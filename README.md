@@ -1,5 +1,3 @@
-# CS342-Assignment-2-Text-Parser
-
 ## Text Parser
 1. Use linked list to achieve the text parsing.
 
