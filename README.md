@@ -1,6 +1,6 @@
-## Text Parser
+# Text Parser
 
-### Description
+## Description
 - The purpose of this exercise is to give you familiarity with Text Parsing, and Linked Lists. 
 - You will read in a lengthy text file; Oscar Wilde’s The Picture of Dorian Gray as text from guttenberg.org http://www.gutenberg.org/ebooks/174.txt.utf-8. 
 - As you read the text you will map all words to lower case and remove all punctuation characters (Only numbers or letters should remain) removed characters should be eaten, NOT replaced with a space. 
@@ -30,7 +30,7 @@
      
      6. Which word occurs before the word “irritating” (in the linked list)?
 
-### Requirements
+## Requirements
 1. No User Interface is required for this project.  
 2. Download the text file to your local machine. Use BufferedReader to read the file.  
 3. Although a regular expression may appear to be the best way to parse the text, a straight forward character by character analysis might be more appropriate.  
